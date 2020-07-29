@@ -1,8 +1,8 @@
 # ex_ICCPII
- ### Python introdutory exercises 
+ ### Exercícios introdutórios em Python 
 
-List of exercises of an introdutory course in **python** programing.
+Lista de scripts correspondente a exercícios de um curso básico de programação em **python**.
 
-beginning | end
+início do curso | fim do curso
 :---: | :---:
 2020_07_20 | 2020_07_24
